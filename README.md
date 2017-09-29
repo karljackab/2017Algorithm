@@ -1,2 +1,2 @@
 # 2017Algorithm
-Here is the code of 106 fall semester algorithm course, which teached by 蔡錫鈞
+This is the code for 106 fall semester algorithm course, which teached by 蔡錫鈞
